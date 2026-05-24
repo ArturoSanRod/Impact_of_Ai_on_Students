@@ -241,5 +241,6 @@ Proyecto/
 ---
 
 # Autor
+Arturo Sánchez Rodríguez - A01275427
 
 Proyecto desarrollado como parte del módulo de Machine Learning.
